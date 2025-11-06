@@ -5,4 +5,4 @@
 02 Nom: Agathe Buchert 
 02 github: agathebuchert-oss
 03 Nom: Boyer Juliette
-03 github:
+03 github: julietteboyer441
